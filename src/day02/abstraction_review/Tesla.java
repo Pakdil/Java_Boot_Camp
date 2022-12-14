@@ -16,4 +16,8 @@ public class Tesla extends Car{
     public void stop() {
 
     }
+
+    public void auto_pilot() {
+
+    }
 }
