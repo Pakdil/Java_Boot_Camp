@@ -4,6 +4,8 @@ public class MethodsReview {
 
     public static void main(String[] args) {  // main method can be overloaded
 
+        MethodsReview obj = new MethodsReview();
+
         String str1 = "Cydeo";
         printEach(str1);
     /*
@@ -26,7 +28,7 @@ public class MethodsReview {
 
         int [] numbers = {10, 20, 30, 40};
         printEach(numbers);
-        printEach(numbers);
+
     }
 
     public static void printEach(String str) {

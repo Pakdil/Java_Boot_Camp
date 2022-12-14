@@ -8,6 +8,7 @@ public class SequenceOfCharacters {
 
     String str2 = "cydeo";
 
+
         String str3 = new String("cydeo");
         String str4 = new String("cydeo");
 
